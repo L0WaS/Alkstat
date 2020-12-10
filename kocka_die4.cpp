@@ -56,4 +56,4 @@ int maksz=n;
 		maksz=m;
 	}
 	return maksz;
-}
+} 
