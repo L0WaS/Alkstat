@@ -33,4 +33,4 @@ int main()
 	cout<<"P erteke: "<<jo/o;
 
 	return 0;
-}
+} 
