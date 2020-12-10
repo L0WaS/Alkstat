@@ -28,4 +28,4 @@ int main()
 
 	double K=(N*P-1);
 	cout<<ceil(K);
-}
+} 
